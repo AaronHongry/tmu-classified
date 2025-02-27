@@ -8,12 +8,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: "AIzaSyBT8y7FeOd-WXW9CE8tuVCXPhKPrBFzu-w",
+	apiKey: "",
 	authDomain: "tmu-classified.firebaseapp.com",
 	projectId: "tmu-classified",
 	storageBucket: "tmu-classified.appspot.com",
 	messagingSenderId: "224451038666",
-	appId: "1:224451038666:web:b5b0c64dbc99aefdfc9333",
+	appId: "",
 };
 
 // Initialize Firebase
