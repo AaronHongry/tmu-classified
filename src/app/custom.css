@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.containered {
+	@apply container;
+	@apply md:px-0;
+	@apply px-6;
+}
